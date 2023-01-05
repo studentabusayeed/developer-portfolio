@@ -43,6 +43,15 @@ nav ul {
     align-items: center;
 }
 
+.sayeed-2 {
+    padding: 20px 25px;
+    margin-left: 10px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    color: #FD6E0A;
+    background: #FFF8F3;
+}
+
 nav li {
     list-style: none;
     margin-left: 50px;

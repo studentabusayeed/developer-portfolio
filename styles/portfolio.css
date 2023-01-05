@@ -30,13 +30,12 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 0 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
     font-weight: 800;
     font-size: 45px;
-    margin-top: 40px;
 }
 
 nav ul {
@@ -47,7 +46,6 @@ nav ul {
 nav li {
     list-style: none;
     margin-left: 50px;
-    margin-top: 40px;
 }
 
 /*banner Styles*/
